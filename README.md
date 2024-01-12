@@ -1,7 +1,7 @@
 <h1>Hey! 👾 I'm Hashim</h1>
 <h3>A High-Schooler and Young Developer from Pakistan</h3>
 
-<h3>👨‍💻Aboout Me</h3>
+<h3>👨‍💻About Me</h3>
 <p>Howdy from the wild frontier of code! I'm Hashim, a high schooler with one foot in the classroom and the other knee-deep in the exhilarating world of computer science. When I'm not wrangling equations or dissecting Shakespeare (yup, I'm a bit of a renaissance geek), you'll find me lassoing lines of code and building digital empires from scratch.
 
 Sure, I ace my exams and stuff, but that's just the warm-up lap. My true passion lies in pushing the boundaries of what's possible with ones and zeros. Whether it's crafting elegant algorithms, conjuring up mind-bending web apps, or diving into the rabbit hole of AI, I'm always on the hunt for the next coding rodeo.
