@@ -1,5 +1,5 @@
-<h1 align="center">Hey! 👾 I'm Hashim</h1>
-<h3 align="center">A High-Schooler and Young Developer from Pakistan</h3>
+<h1>Hey! 👾 I'm Hashim</h1>
+<h3>A High-Schooler and Young Developer from Pakistan</h3>
 
 <h3>👨‍💻Aboout Me</h3>
 <p>Howdy from the wild frontier of code! I'm Hashim, a high schooler with one foot in the classroom and the other knee-deep in the exhilarating world of computer science. When I'm not wrangling equations or dissecting Shakespeare (yup, I'm a bit of a renaissance geek), you'll find me lassoing lines of code and building digital empires from scratch.
